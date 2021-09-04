@@ -1,4 +1,4 @@
-# 11 HÁBITOS DE LA GENTE EDUCADA
+# 11 Hábitos de la gente educada
 
 ## **1. SON EXCELENTES OYENTES**
 
