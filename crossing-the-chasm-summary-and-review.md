@@ -27,7 +27,7 @@ Disruptive change is the price of modernization. Sooner or later it comes to eve
 
 _Technology Adoption Life Cycle_
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5093f7d-2aaf-4045-8764-85e0c91b8373/image1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5093f7d-2aaf-4045-8764-85e0c91b8373/image1.jpg)
+![](.gitbook/assets/early.jpg)
 
 Source: [http://www.themarketingstudent.com/wp-content/uploads/2017/04/chasm-adoption-lifecycle.jpeg](http://www.themarketingstudent.com/wp-content/uploads/2017/04/chasm-adoption-lifecycle.jpeg)
 
