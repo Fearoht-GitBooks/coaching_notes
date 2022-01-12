@@ -1,6 +1,7 @@
 # Table of contents
 
 * [El Desafio del amor](README.md)
+* [Liderazgo Transformacional](liderazgo-transformacional.md)
 * [StoryTelling](storytelling.md)
 * [La magia del Orden](la-magia-del-orden.md)
 * [¿Qué es ADKAR? y ¿cómo usarlo en mi proyecto?](<README (1).md>)
@@ -9,3 +10,11 @@
 * [Espada de Damocles: historia, significado, moraleja](espada-de-damocles-historia-significado-moraleja.md)
 * [Hipótesis de Sapir-Whorf](hipotesis-de-sapir-whorf.md)
 * [¿Qué es Escala de Kardashov?](que-es-escala-de-kardashov.md)
+* [A pretty good summary of Lean, Agile, Scrum](a-pretty-good-summary-of-lean-agile-scrum.md)
+* [Effective 1-on-1s](effective-1-on-1s.md)
+* [Culture Code](culture-code.md)
+* [How to disagree well: 7 of the best and worst ways to argue](how-to-disagree-well-7-of-the-best-and-worst-ways-to-argue.md)
+* [Guía para dar buen feedback](guia-para-dar-buen-feedback.md)
+* [Feedback 360](feedback-360.md)
+* [The Inside Scoop On High-Performance Teams](the-inside-scoop-on-high-performance-teams.md)
+* [“Crossing the Chasm” Summary and Review](crossing-the-chasm-summary-and-review.md)
