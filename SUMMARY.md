@@ -74,3 +74,5 @@
 * [Tres principios básicos para mejorar la calidad de un proceso](tres-principios-basicos-para-mejorar-la-calidad-de-un-proceso.md)
 * [What is DevOps? A Complete Guide](what-is-devops-a-complete-guide.md)
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what choose?](kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-choose.md)
+* [A Learning Path To Becoming a Data Scientist](a-learning-path-to-becoming-a-data-scientist.md)
+* [DataOps – DevOps for Big Data and Analytics](dataops-devops-for-big-data-and-analytics.md)
