@@ -76,3 +76,5 @@
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what choose?](kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-choose.md)
 * [A Learning Path To Becoming a Data Scientist](a-learning-path-to-becoming-a-data-scientist.md)
 * [DataOps – DevOps for Big Data and Analytics](dataops-devops-for-big-data-and-analytics.md)
+* [La casa de la calidad (House of Quality) en el desarrollo de productos](la-casa-de-la-calidad-house-of-quality-en-el-desarrollo-de-productos.md)
+* [El Modelo SERVQUAL de Calidad de Servicio](el-modelo-servqual-de-calidad-de-servicio.md)
